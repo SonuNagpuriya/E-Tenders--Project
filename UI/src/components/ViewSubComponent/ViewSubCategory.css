@@ -1,0 +1,12 @@
+#main1
+{
+  min-height:350px;
+  width: 1050px;
+}
+.items
+{
+    height:150px;
+    width: 150px;
+    float: left;
+    margin:20px;
+}
