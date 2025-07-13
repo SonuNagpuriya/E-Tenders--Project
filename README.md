@@ -88,4 +88,5 @@ node index.js  # or nodemon index.js
 ## ✨ Author
 **Sonu Nagpuriya**  
 MERN Stack Developer  
-[GitHub Profile](https://github.com/Sonumaali)
+[GitHub Profile](https://github.com/SonuNagpuriya)
+
