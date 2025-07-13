@@ -1,4 +1,5 @@
 # 🏗️ E-Tenders Project
+[![Live Site](https://img.shields.io/badge/Live--Site-Visit-green?style=for-the-badge&logo=vercel)](https://e-tenders-project-ppbqyjbz8-sonu-nagpuriyas-projects.vercel.app)
 
 ## 🔍 Overview
 The **E-Tenders Management System** is a full-stack web application built with the **MERN stack** that allows both users and admins to manage tenders online.
